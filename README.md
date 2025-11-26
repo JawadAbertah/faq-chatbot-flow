@@ -3,8 +3,11 @@ Figma/Canva diagram for FAQ chatbot conversation flow UX/UI.
 
 ---
 # FAQ Chatbot Flow
+Chatbot conversation flow design for an FAQ bot. Includes logical paths and user-friendly UX.  
+Tools used: Figma / Canva
 
-This project contains a chatbot conversation flow designed for a simple FAQ bot.
+![FAQ Chatbot Flow](assets/faq_chatbot_flow.png)
+
 
 ## Features
 - Visual diagram of chatbot conversation paths
