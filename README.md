@@ -12,7 +12,7 @@ This project contains a chatbot conversation flow designed for a simple FAQ bot.
 - Ready to implement in websites or messaging platforms
 
 ## Files
-- `faq_chatbot_flow.png` (diagram exported from Figma/Canva)
+- `faq_chatbot_flow.png`
 
 ## How to Use
 1. Open the PNG or PDF file to view the conversation flow.
